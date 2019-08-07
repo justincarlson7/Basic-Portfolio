@@ -1,92 +1,95 @@
-/* body {
-  width: 100%;
-  background: #ffffff;
-} */
 
-.container {
-  width: 100%;
-  align-self: center;
 
-}
+header {
 
-h1 {
-
-font-family: 'Courier New', Courier, monospace;
-font-size: 12pt;
+  width:960px;
+  margin:0 auto;
+    
 
 }
 
-#top {
-  padding: 20px;
-  margin-bottom: 0px;
-  color: #333;
-  background: #ccc;
-  width: 960px;
-  position: relative;
+
+#topleft {
   float: left;
-}
-
-#box1 {
-  padding: 10px;
-  margin-bottom: 0px;
-  color: #333;
-  background: rgb(203, 185, 235);
   width: 300px;
+  height: 50px; 
+  background: #02074d;
+  padding-top: 25px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+
+  border-style: solid;
+  border-bottom: #00000052;
+  padding: 5px;
+
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: none;
+}
+
+#topright {
   
-  float: left;
-}
-
-#box2 {
-  padding: 20px;
-  margin-bottom: 20px;
-  color: #333;
-  background: rgb(114, 231, 4);
-  width: 200px;
-  position: relative;
   float: right;
+  width: 300px;
+  height: 50px;
+  background: #ffffff;
+
+   
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  border-style: solid;
+  border-bottom: #00000052;
+  padding: 5px;
+ 
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+
+
+
 }
 
-#box3 {
-  padding: 0px;
-  margin-bottom: 20px;
-  color: #333;
-  background: #ccc;
-  width: 100px;
-  position: relative;
+#jc_pic {
+
+  width: 200px;
   float: left;
+  padding-top: 20px;
+
 }
 
 
+#bio {
 
-#box4 {
-  padding: 20px;
-  margin-bottom: 20px;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 12pt;
-  color: #333;
-  background: rgb(114, 231, 4);
-  width: 100%;
-  position: relative;
   float: left;
-}
+  width: 660px;
+  height: 60px;
+  padding: 19px;
+  color: #000000;
+  text-align: center;
+  
+  
+  }
 
 
-#header {
-  padding-top: 10px;
-padding-right: 10px;
-padding-bottom: 10px;
-padding-left: 10px;
-  margin-bottom: 0Px;
-  color: #333;
-  background: rgb(255, 253, 253);
 
-  width: 960px;
 
-}
-#section1 {
-  padding: 20px;
-  margin-bottom: 20px;
-  width: 960px;
-  color: #333;
-  background: #ccc;
-}
+
+  section {
+    Height: 200px;
+    width:960px;
+  margin:0 auto;"
+    background: #ffffff;
+    clear: both;
+  }
+
+ 
+
