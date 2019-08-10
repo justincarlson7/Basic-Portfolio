@@ -81,8 +81,10 @@ a {
 body {
   width: 960px;
   margin: 0 auto;
-  background: #c9c2ab;
+  background-image: url("../images/paper.jpg");
+  /* background: #c9c2ab; */
   clear: both;
+  
 }
 
 #jc_pic {
@@ -108,7 +110,7 @@ body {
   padding-left: 20px;
 
   padding-bottom: 10px;
-  border-bottom: 2px solid rgba(46, 45, 45, 0.637);
+  border-bottom: 2px solid rgba(46, 45, 45, 0.171);
 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
