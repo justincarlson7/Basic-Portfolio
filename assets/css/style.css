@@ -3,6 +3,11 @@ a {
   color: #000000;
 }
 
+.name {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 .header {
   width: 960px;
   height: 100px;
@@ -16,21 +21,22 @@ a {
   width: 300px;
   height: 50px;
   position: relative;
-  background: #ffffff;
-  padding-top: 20px;
+  background: rgb(2, 110, 138);
+  padding-top: 30px;
   padding-right: 0px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-
+  padding-bottom: 0px;
+  padding-left: 30px;
+ 
   border-style: solid;
   border-bottom: #00000052;
-
+ 
   font-family: Arial, Helvetica, sans-serif;
   color: #ffffff;
   font-size: 25px;
   font-style: normal;
   font-weight: bold;
   text-align: left;
+  
 }
 
 .topmiddle {
@@ -54,10 +60,10 @@ a {
   position: relative;
   background: #ffffff;
 
-  padding-top: 20px;
+  padding-top: 30px;
   padding-right: 30px;
-  padding-bottom: 10px;
-  padding-left: 10px;
+  padding-bottom: 0px;
+  padding-left: 0px;
   margin-right: auto;
 
   font-family: Arial, Helvetica, sans-serif;
@@ -98,6 +104,7 @@ body {
 
   padding-bottom: 10px;
   border-bottom: 2px solid rgba(46, 45, 45, 0.637);
+  
 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
@@ -118,6 +125,8 @@ body {
   margin-bottom: 0%;
   background: #ffffff;
   line-height: 20px;
+  
+
 }
 
 #mainText {
@@ -233,21 +242,9 @@ h1 {
   padding-bottom: 20px;
   padding-top: 20px;
 
-}
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
 
-/* .box{
-        position: relative;
-        display: inline-block; /* Make the width of box same as image 
-      }
-      .box .text{
-          position: absolute;
-          z-index: 999;
-          margin: 0 auto;
-          left: 0;
-          right: 0;        
-          text-align: center;
-          top: 40%; /* Adjust this value to move the positioned div up and down 
-          background: rgba(0, 0, 0, 0.8);
-          font-family: Arial,sans-serif;
-          color: #fff;
-          width: 60%; /* Set the width of the positioned div */
+}
