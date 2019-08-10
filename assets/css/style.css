@@ -8,6 +8,12 @@ a {
   color: #ffffff;
 }
 
+.navtext {
+
+  text-decoration: none;
+  color: #8a8989;
+}
+
 .header {
   width: 960px;
   height: 100px;
@@ -26,17 +32,16 @@ a {
   padding-right: 0px;
   padding-bottom: 0px;
   padding-left: 30px;
- 
+
   border-style: solid;
   border-bottom: #00000052;
- 
+
   font-family: Arial, Helvetica, sans-serif;
   color: #ffffff;
   font-size: 25px;
   font-style: normal;
   font-weight: bold;
   text-align: left;
-  
 }
 
 .topmiddle {
@@ -67,7 +72,7 @@ a {
   margin-right: auto;
 
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   font-style: normal;
   font-weight: bold;
   text-decoration: none;
@@ -104,7 +109,6 @@ body {
 
   padding-bottom: 10px;
   border-bottom: 2px solid rgba(46, 45, 45, 0.637);
-  
 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
@@ -125,8 +129,6 @@ body {
   margin-bottom: 0%;
   background: #ffffff;
   line-height: 20px;
-  
-
 }
 
 #mainText {
@@ -235,7 +237,7 @@ h1 {
   right: 0;
   text-align: center;
   top: 70%;
-  background-color: rgb(14, 197, 243);
+  background-color: rgb(2, 110, 138);
   color: white;
   padding-left: 10px;
   padding-right: 10px;
@@ -246,5 +248,4 @@ h1 {
   font-size: 18px;
   font-style: normal;
   font-weight: bold;
-
 }
